@@ -1,6 +1,6 @@
 🎯 Focus Timer: A Vibe Coding Project
 
-Welcome to my Focus Timer app!
+Welcome to my [Focus Timer app!](https://anupamlalwani.github.io/pomodoro-app/)
 
 This project represents my journey back into creation, built entirely through vibe coding. By leveraging AI tools, I've transformed a vision into a fully functional, installable PWA (Progressive Web App).
 
